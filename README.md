@@ -10,4 +10,5 @@ new line in doc
 
         line in end of file
 
-append with pycharm 1
+append with pycharm 1/
+and new line with pycharm2
