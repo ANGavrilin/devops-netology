@@ -9,3 +9,5 @@ new line in doc
 
 
         line in end of file
+
+append with pycharm 1
